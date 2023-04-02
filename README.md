@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wildan Pratama</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<img align="right" alt="coding" width="498" style="border-radius: 10%;" src="https://media.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif">
+<img align="right" alt="coding" width="498" style="border-radius: 15%;" src="https://media.tenor.com/w3APLkMuTX0AAAAC/computer-work.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildan-pratama&label=Profile%20views&color=0e75b6&style=flat" alt="wildan-pratama" /> </p>
 
