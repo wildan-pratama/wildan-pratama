@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wildan Pratama</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<div class="tenor-gif-embed" data-postid="14640055" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/computer-work-online-gif-14640055">Computer Work GIF</a>from <a href="https://tenor.com/search/computer-gifs">Computer GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildan-pratama&label=Profile%20views&color=0e75b6&style=flat" alt="wildan-pratama" /> </p>
 
