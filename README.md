@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wildan Pratama</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/71I3KFTKzYz1qi3SBctusp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<img align="right" alt="coding" width="498" style="border-radius: 15%;" src="https://pa1.narvii.com/6725/d6ead5c26c6613aa5147b14dc1e13aad37dd7804_hq.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildan-pratama&label=Profile%20views&color=0e75b6&style=flat" alt="wildan-pratama" /> </p>
 
